@@ -7,7 +7,7 @@ For more details, please refer to this paper:
 ## About File
 
 
-The repository contains two main folders. The code folder provides implementations for simulations and the associated data structures, while the data folder includes the empirical higher-order networks used in this study.
+The repository contains two main folders. The code folder provides implementations for simulations and the associated data structures. For the purposes of further studies, we have provided the core codes for data management and data structures, along with several illustrative toy implementations, and with additional codes to be released in the near future. The data folder includes the empirical higher-order networks used in this study.
 
 ## Contact
 
